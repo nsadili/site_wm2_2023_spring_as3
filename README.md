@@ -38,7 +38,7 @@ Assignment 2. (One entity and CRUD operations on that entity is enough - use GET
             <li> logs after each operation</li>
         </ul>
     </li>
-    <li> Upload the video to YouTube and share the link by adding it to your home page.</li>
+    <li> Upload the video to YouTube and share the link by adding it as the first line of your README.md file.</li>
     <li> Submissions without a video submission will not be graded.</li>
 </ul>
 
